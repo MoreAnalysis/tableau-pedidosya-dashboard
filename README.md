@@ -15,10 +15,10 @@ Este proyecto muestra un tablero interactivo creado en **Tableau** con datos de 
 
 A continuación, se muestran algunas vistas del dashboard construido:
 
-### Gráfico 1
+### Gráficos #1
 ![Gráfico 1](Graficos1.png)
 
-### Gráfico 2
+### Gráficos #2
 ![Gráfico 2](Graficos2.png)
 
 ### Gráfico 3
