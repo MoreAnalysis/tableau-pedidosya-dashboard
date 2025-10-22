@@ -4,8 +4,15 @@ Análisis visual de ventas, métodos de pago y preferencias por ciudad en Pedido
 
 Este repositorio contiene screenshots y una breve descripción del dashboard interactivo desarrollado en Tableau Public. El análisis se basa en datos de PedidosYa Argentina y busca visualizar insights clave sobre ventas, preferencias y comportamiento de los usuarios en diferentes ciudades.
 
+---
+This project analyzes order and delivery trends from PedidosYa Argentina using Tableau.  
+Below you can explore both the interactive dashboard and the presentation.
+
 🔗 **Dashboard online**:  
 [Ver en Tableau Public](https://public.tableau.com/app/profile/morena.figueroa/viz/Entregafinal_17545157966430/Dashboard_Principal)
+
+📄 **Insights Presentation (English)**:  
+[Download Presentation PDF](PedidosYa_Presentation.pdf)
 
 ---
 
